@@ -1,0 +1,6 @@
+# PDF 导出的中间产物（md2html.mjs 生成的临时 HTML / 临时 md）
+pdf/_tmp.md
+pdf/_tmp.html
+
+# 任何遗留在 pdf/ 下的中间 HTML 都不该进仓库
+pdf/*.html
